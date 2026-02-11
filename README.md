@@ -1,5 +1,6 @@
 # Yaw Rate Controller  
-The project focuses on controller design and evaluation using a simplified one-track model.
+This project was made as final project for the EEN130 Systems and Mechatronics course at Chalmers.
+It focuses on controller design and evaluation using a simplified one-track model.
 
 ## Contents
 - models/
